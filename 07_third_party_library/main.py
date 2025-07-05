@@ -18,4 +18,4 @@ def convert_to_grayscale(input_path, output_path):
         print(f"Unexpected error: {e}")
 
 if __name__ == "__main__":
-    convert_to_grayscale("input.jpg", "output.jpg")
+    convert_to_grayscale("fish.jpg", "output.jpg")
